@@ -11,5 +11,5 @@ pip2 install wget
 pkg install git
 git clone https://github.com/533hacker/Checker-Insta
 cd Checker-Insta
-python2 insta-checker.py
+python3 insta-checker.py
 ```
